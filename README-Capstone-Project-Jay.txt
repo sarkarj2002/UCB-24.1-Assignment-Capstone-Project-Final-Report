@@ -1,3 +1,14 @@
+
+
+============================================================================
+CREDIT CARD FRAUD DETECTION - CAPSTONE PROJECT
+============================================================================
+Research Question: Can machine learning models accurately identify
+fraudulent transactions, and which features are most predictive of fraud?
+
+Note Book Link:
+https://colab.research.google.com/drive/1-dVtV0usDG8xJYzAjupC3tWduV9nYNE-#scrollTo=EWCBQxBoTL_T
+
 EXECUTIVE SUMMARY:
 ------------------
 This analysis successfully developed machine learning models to detect fraudulent 
